@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cherry
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Batnhay
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 677555675
+    locked: 0
+  - name: platfrom
+    uniqueID: 2986499907
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 1024950557
+    locked: 0
+  - name: Player
+    uniqueID: 200749565
+    locked: 0
+  - name: Batnhay
+    uniqueID: 788772419
+    locked: 0
+  - name: Enemy
+    uniqueID: 1378821687
+    locked: 0
